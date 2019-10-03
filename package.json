@@ -1,0 +1,14 @@
+{
+  "name": "ci_cd_experiment",
+  "version": "1.0.0",
+  "description": "A project to get familiar with and test CI/CD methodologies",
+  "main": "server.js",
+  "author": "Christian Lemieux",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
