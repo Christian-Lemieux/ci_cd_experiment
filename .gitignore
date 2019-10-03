@@ -1,0 +1,7 @@
+*~
+.container.id
+.last_tag
+/bin/*
+node_modules
+.DS_Store
+._.DS_Store
