@@ -3,7 +3,7 @@ FROM node:10
 
 LABEL maintainer="clemieux@nextjump.com" service="ci_cd_experiment"
 
-WORKDIR /app
+WORKDIR /usr/src/app
 
 COPY package*.json ./
 

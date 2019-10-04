@@ -4,6 +4,7 @@
   "description": "A project to get familiar with and test CI/CD methodologies",
   "main": "server.js",
   "author": "Christian Lemieux",
+  "private": true,
   "license": "MIT",
   "scripts": {
     "start": "node server.js"
